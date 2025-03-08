@@ -41,7 +41,7 @@ npm install
 ### Development
 ```bash
 # Start development server with hot reloading
-npm run dev
+npm run start
 ```
 
 ### Production
@@ -50,7 +50,7 @@ npm run dev
 npm run build
 
 # Start production server
-npm start
+npm run start
 ```
 
 ### Linting and Formatting
